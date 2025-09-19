@@ -1,0 +1,18 @@
+<svg width="120" height="120" viewBox="0 0 120 120" xmlns="http://www.w3.org/2000/svg">
+  <!-- Kepala dog -->
+  <circle cx="60" cy="60" r="50" fill="gold" stroke="black" stroke-width="3"/>
+  
+  <!-- Mata -->
+  <circle cx="45" cy="50" r="7" fill="black"/>
+  <circle cx="75" cy="50" r="7" fill="black"/>
+  
+  <!-- Hidung -->
+  <circle cx="60" cy="75" r="6" fill="black"/>
+  
+  <!-- Mulut -->
+  <path d="M50 85 Q60 95 70 85" stroke="black" stroke-width="3" fill="transparent"/>
+  
+  <!-- Telinga -->
+  <polygon points="25,35 45,20 50,50" fill="black"/>
+  <polygon points="95,35 75,20 70,50" fill="black"/>
+</svg>
